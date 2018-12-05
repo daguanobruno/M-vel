@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Gerenciador de Contas</string>
+
+    <string name="deseja_realmente_apagar">Deseja realmente apagar?</string>
+    <string name="alterar_local">Local Alterado!</string>
+    <string name="novo_local">Novo Local Adicionado!</string>
+    <string name="local_vazio">O campo local está vazio!</string>
+    <string name="local_usado">Este local já está cadastrado!</string>
+    <string name="alterar_gasto">Alterar Gastos</string>
+    <string name="novo_gastos">Novo Gastos</string>
+    <string name="produto_vazio">O campo do produto se encontra vazio</string>
+    <string name="quantidade_vazio">O campo quantidade se encontra vazio</string>
+    <string name="valor_vazio">O campo valor se encontra vazio</string>
+    <string name="aviso">Aviso</string>
+    <string name="ok">Ok</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="local">Local</string>
+    <string name="produto">Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="valor">Valor</string>
+    <string name="limpar">Limpar</string>
+    <string name="locais">Locais</string>
+    <string name="salvar">Salvar</string>
+    <string name="salvo">Salvo</string>
+    <string name="produto_salvo">Produto Salvo!</string>
+    <string name="local_salvo">Local Salvo!</string>
+    <string name="gastos_excluido">Pedido Deletado!</string>
+    <string name="local_excluido">Local Deletado!</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletar">Deletar</string>
+    <string name="editar">Editar</string>
+    <string name="novo_locar">Novo Local</string>
+    <string name="informacoes">Informações do Aplicativo</string>
+    <string name="nomeApp">Nome do App: Gerenciador de Contas</string>
+    <string name="descricaoApp">Com o uso deste App, o usuário poderá cadastrar um pedido feito por um cliente, no qual armanazerá o nome do produto pedido, sua quantidade e valor.</string>
+    <string name="nomeDesenvolvedor">Desenvolvedor: João Paulo Paes</string>
+    <string name="curso">Curso: Engenharia de Software</string>
+    <string name="email">Email: joaopaulopaez@gmail.com</string>
+    <string name="area">Qual é a sua bebida preferida?</string>
+    <string name="ver">Ver</string>
+    <string name="bebida">Bebida Preferida</string>
+
+
+    <string-array name="tipos_locais">
+        <item>Bar</item>
+        <item>Lanchonete</item>
+        <item>Pizzaria</item>
+        <item>Restaurante</item>
+    </string-array>
+
+
+</resources>

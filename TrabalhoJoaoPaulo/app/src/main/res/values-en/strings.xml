@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Account Manager</string>
+    <string name="deseja_realmente_apagar">Do you really want to delete?</string>
+    <string name="alterar_local">Location Changed!</string>
+    <string name="novo_local">New Location Added!</string>
+    <string name="local_vazio">The local field is empty!</string>
+    <string name="local_usado">This place is already registered!</string>
+    <string name="alterar_gasto">Change Expenses</string>
+    <string name="novo_gastos">New Expenses</string>
+    <string name="produto_vazio">Product field is empty</string>
+    <string name="quantidade_vazio">The quantity field is empty</string>
+    <string name="valor_vazio">Value field is empty</string>
+    <string name="aviso">Notice</string>
+    <string name="ok">Ok</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="local">Local</string>
+    <string name="produto">Product</string>
+    <string name="quantidade">Amount</string>
+    <string name="valor">Value</string>
+    <string name="limpar">To clean</string>
+    <string name="locais">Places</string>
+    <string name="salvar">To save</string>
+    <string name="salvo">Saved</string>
+    <string name="produto_salvo">Saved Product!</string>
+    <string name="local_salvo">Location Saved!</string>
+    <string name="local_excluido">Location Deleted!</string>
+    <string name="gastos_excluido">Request Deleted!</string>
+    <string name="cancelar">Cancel</string>
+    <string name="deletar">Delete</string>
+    <string name="editar">To edit</string>
+    <string name="novo_locar">New Location</string>
+    <string name="nomeApp">App Name: Account Manager</string>
+    <string name="informacoes">Application Info</string>
+    <string name="descricaoApp">With the use of this App, the user can register a request made by a customer, in which the product name, quantity and value will be stored.</string>
+    <string name="nomeDesenvolvedor">Developer: João Paulo Paes</string>
+    <string name="curso">Course: Software Engineering</string>
+    <string name="email">Email: joaopaulopaez@gmail.com</string>
+    <string name="area">What is your favorite drink?</string>
+    <string name="ver">To See</string>
+    <string name="bebida">Favorite Drink</string>
+
+    <string-array name="tipos_locais">
+        <item>Pub</item>
+        <item>Snack bar</item>
+        <item>Pizzeria</item>
+        <item>Restaurant</item>
+    </string-array>
+
+</resources>
